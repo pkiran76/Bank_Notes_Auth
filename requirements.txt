@@ -1,0 +1,10 @@
+numpy
+pandas
+uvicorn
+fastapi
+scikit-learn
+matplotlib
+scipy
+gunicorn==19.9.0
+uvloop
+httptools
